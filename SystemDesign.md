@@ -4,5 +4,8 @@
 - https://www.codercrunch.com/design/634265/designing-instagram  
 - https://www.codercrunch.com/design/634265/designing-instagram#mcetoc_1dv10vl8s1c  
 
+## Interesting
+https://blog.twitter.com/engineering/en_us/a/2010/announcing-snowflake.html
+
 ## Links
 https://www.geeksforgeeks.org/top-10-system-design-interview-questions-and-answers/?ref=lbp
