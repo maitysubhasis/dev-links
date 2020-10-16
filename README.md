@@ -14,4 +14,7 @@ https://www.geeksforgeeks.org/design-dropbox-a-system-design-interview-question/
 https://blog.discord.com/how-discord-indexes-billions-of-messages-e3d5e9be866f  
 https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7   
 
+## Random topics
+[Consistent Hashing - toptal](https://www.toptal.com/big-data/consistent-hashing#:~:text=Consistent%20Hashing%20is%20a%20distributed,without%20affecting%20the%20overall%20system.)
+
 
